@@ -1,0 +1,92 @@
+{
+  "LazerPlay": {
+    "servidores": [
+      { "servidor": "http://cdnrptv.com", "codigo": "634821" },
+      { "servidor": "http://mainxs.site", "codigo": "634821" },
+      { "servidor": "http://iksds.site", "codigo": "634821" },
+      { "servidor": "http://fenixtv.site", "codigo": "634821" },
+      { "servidor": "http://falcon12.top", "codigo": "634821" },
+      { "servidor": "http://srv3.site", "codigo": "634821" },
+      { "servidor": "http://d.plmv.site", "codigo": "060214" },
+      { "servidor": "http://arena10.cfd", "codigo": "3080" },
+      { "servidor": "http://starkplayy.shop", "codigo": "00988" },
+      { "servidor": "http://morccdn.online", "codigo": "atmos" }
+    ]
+  },
+  "Assist+": {
+    "servidores": [
+      { "servidor": "http://cdnrptv.com", "codigo": "634821" },
+      { "servidor": "http://mainxs.site", "codigo": "634821" },
+      { "servidor": "http://iksds.site", "codigo": "634821" },
+      { "servidor": "http://fenixtv.site", "codigo": "634821" },
+      { "servidor": "http://falcon12.top", "codigo": "634821" },
+      { "servidor": "http://srv3.site", "codigo": "634821" },
+      { "servidor": "http://d.plmv.site", "codigo": "060214" },
+      { "servidor": "http://arena10.cfd", "codigo": "8489767" },
+      { "servidor": "http://fsxpro.online", "codigo": "634821" },
+      { "servidor": "http://brazilzao.top", "codigo": "mc01" },
+      { "servidor": "http://starkplayy.shop", "codigo": "827164" },
+      { "servidor": "http://morccdn.online", "codigo": "atmos" }
+    ]
+  },
+  "Prime IPTV": {
+    "servidores": [
+      { "servidor": "http://vaunvo.top", "codigo": "aiqohye8" },
+      { "servidor": "http://hetsdb.zip", "codigo": "aiqohye8" },
+      { "servidor": "http://framforframe.top", "codigo": "aiqohye8" },
+      { "servidor": "http://ibetsa.top", "codigo": "aiqohye8" },
+      { "servidor": "http://girassoldh.top", "codigo": "aiqohye8" }
+    ]
+  },
+  "Tv Play": {
+    "servidores": [
+      { "servidor": "http://vaunvo.top", "codigo": "Uniplay" },
+      { "servidor": "http://hetsdb.zip", "codigo": "Uniplay" },
+      { "servidor": "http://framforframe.top", "codigo": "Uniplay" },
+      { "servidor": "http://ibetsa.top", "codigo": "Uniplay" },
+      { "servidor": "http://girassoldh.top", "codigo": "Uniplay" }
+    ]
+  },
+  "Fun Play": {
+    "servidores": [
+      { "servidor": "http://vaunvo.top", "codigo": "vjxmmbor" },
+      { "servidor": "http://hetsdb.zip", "codigo": "vjxmmbor" },
+      { "servidor": "http://framforframe.top", "codigo": "vjxmmbor" },
+      { "servidor": "http://ibetsa.top", "codigo": "vjxmmbor" },
+      { "servidor": "http://girassoldh.top", "codigo": "vjxmmbor" },
+      { "servidor": "http://starkplayy.shop", "codigo": "00988" }
+    ]
+  },
+  "XCloud": {
+    "servidores": [
+      { "servidor": "http://cdnrptv.com", "codigo": "ONPIX" },
+      { "servidor": "http://mainxs.site", "codigo": "ONPIX" },
+      { "servidor": "http://iksds.site", "codigo": "ONPIX" },
+      { "servidor": "http://fenixtv.site", "codigo": "ONPIX" },
+      { "servidor": "http://falcon12.top", "codigo": "ONPIX" },
+      { "servidor": "http://srv3.site", "codigo": "ONPIX" },
+      { "servidor": "http://sansuygtv.site", "codigo": "pbtv" },
+      { "servidor": "http://arena10.cfd", "codigo": "11aa" },
+      { "servidor": "http://fsxpro.online", "codigo": "fs011" },
+      { "servidor": "http://brazilzao.top", "codigo": "clickpro" },
+      { "servidor": "http://m000003.lat:80", "codigo": "pbtv" },
+      { "servidor": "http://m729x5.pro", "codigo": "btv" }
+    ]
+  },
+  "Play Sim": {
+    "servidores": [
+      { "servidor": "http://cdnrptv.com", "codigo": "634821" },
+      { "servidor": "http://mainxs.site", "codigo": "634821" },
+      { "servidor": "http://iksds.site", "codigo": "634821" },
+      { "servidor": "http://fenixtv.site", "codigo": "634821" },
+      { "servidor": "http://falcon12.top", "codigo": "634821" },
+      { "servidor": "http://srv3.site", "codigo": "634821" },
+      { "servidor": "http://d.plmv.site", "codigo": "060214" },
+      { "servidor": "http://brazilzao.top", "codigo": "mc01" },
+      { "servidor": "http://pstf.fun", "codigo": "00113" },
+      { "servidor": "http://flowvip.xyz", "codigo": "1032" },
+      { "servidor": "http://starkplayy.shop", "codigo": "927683" },
+      { "servidor": "http://morccdn.online", "codigo": "atmos" }
+    ]
+  }
+}
